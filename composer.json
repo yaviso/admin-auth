@@ -31,7 +31,7 @@
         "brackets/admin-ui": "^4.0",
         "brackets/media": "^6.0",
         "illuminate/support": "^8.0",
-        "spatie/laravel-permission": "^3.0"
+        "spatie/laravel-permission": "^3.0|^4.0"
     },
     "require-dev": {
         "orchestra/testbench": "~6.0",
